@@ -4,7 +4,9 @@ layout: home
 
 Luthree's Blog
 
-必看
--------
+公告
+=========
 
-[重置](posts/2021-07-10-重置.html)
+我把整个网站重置了，后续应该会把以前的东西以依次上传回来。
+
+[luthree](http://www.luthree.tk)
