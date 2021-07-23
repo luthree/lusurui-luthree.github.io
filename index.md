@@ -6,7 +6,7 @@ layout: home
 
 ------
 
-[自家官网](http://luthree.tk/zjxp)
+[自家官网](http://luthree.ml/zjxp)-luthree.ml/zjxp
 
 ---------
 
