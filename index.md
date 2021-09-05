@@ -2,11 +2,11 @@
 layout: home
 ---
 
-# Luthree's Blog
+<font color="red">Luthree's Blog</font>
 
 ------
 
-[自家官网](http://luthree.ml/zjxp)&ensp;&ensp;&ensp;&ensp;[luthree官方论坛](http://bbs.luthree.ml)&ensp;&ensp;&ensp;&ensp;[luthree搜索主页](https://luthree.tk/s/)
+[自家官网](http://luthree.ml/zjxp)&ensp;&ensp;&ensp;&ensp;[luthree官方论坛](http://bbs.luthree.ml)&ensp;&ensp;&ensp;&ensp;[luthree搜索主页](https://luthree.tk/s/)&ensp;&ensp;&ensp;&ensp;[邹子墨官网](https://luthree.tk/zzm/)
 
 ---------
 
