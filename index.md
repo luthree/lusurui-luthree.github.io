@@ -6,7 +6,7 @@ layout: home
 
 ------
 
-[自家官网](http://luthree.tk/zjxp)&ensp;&ensp;&ensp;&ensp;[luthree官方论坛](http://bbs.luthree.ml)&ensp;&ensp;&ensp;&ensp;[luthree搜索主页](https://luthree.tk/s/)&ensp;&ensp;&ensp;&ensp;[邹子墨官网](https://luthree.tk/zzm/)
+[自家官网](http://zjxp.luthree.tk)&ensp;&ensp;&ensp;&ensp;[luthree官方论坛](http://bbs.luthree.ml)&ensp;&ensp;&ensp;&ensp;[luthree搜索主页](https://luthree.tk/s/)&ensp;&ensp;&ensp;&ensp;[邹子墨官网](https://luthree.tk/zzm/)
 
 ---------
 
