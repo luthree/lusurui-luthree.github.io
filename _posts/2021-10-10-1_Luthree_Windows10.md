@@ -10,7 +10,7 @@ Luthree Windows10系统（以下简称LW10）1.3版本发布！
 
 LW10是luthree定制的win10系统。采用win10专业版内核，优化了部分功能，并预装了许多常用的软件。例如：VS Code；Microsoft Office；Adobe Photoshop；Adobe Premiere Pro；微信；QQ ......
 
-下载链接：尚未公布
+下载链接：尚未公布，如需要请找luthree。
 
 安装：
 
