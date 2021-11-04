@@ -32,5 +32,8 @@ layout: home
 
 #### 最近更新：
 
-
 [Luthree Windows10系统发布1.3版本](https://luthree.tk/posts/2021-10-10-1_Luthree_Windows10.html)
+
+#### 赞助：
+
+![微信收款码](/img/mm_facetoface_collect_qrcode_1632534792604.png "赞助")
