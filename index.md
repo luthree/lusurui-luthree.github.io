@@ -10,12 +10,6 @@ layout: home
 
 [自家官网](https://zjxp.luthree.tk)&ensp;&ensp;&ensp;&ensp;[luthree官方论坛](http://bbs.luthree.ml)&ensp;&ensp;&ensp;&ensp;[luthree搜索主页](https://s.luthree.tk/)&ensp;&ensp;&ensp;&ensp;[邹子墨官网](https://zzm.luthree.tk)&ensp;&ensp;&ensp;&ensp;[luthree网盘](http://pan.luthree.tk)
 
----------
-
-## 公告
-
-我把整个网站重置了，后续应该会把以前的东西以依次上传回来。
-
 ------
 
 ### 网站说明
@@ -26,13 +20,13 @@ layout: home
 
 ------
 
-#### 热门文章：
-
-[Luthree Windows10系统发布1.3版本](https://luthree.tk/posts/2021-10-10-1_Luthree_Windows10.html)
-
 #### 最近更新：
 
 [邹子墨新官网](https://luthree.tk/posts/2021-11-05-2021_11_05_%E6%9B%B4%E6%96%B0_1_%E9%82%B9%E5%AD%90%E5%A2%A8%E5%AE%98%E7%BD%91.html)
+
+#### 热门文章：
+
+[Luthree Windows10系统发布1.3版本](https://luthree.tk/posts/2021-10-10-1_Luthree_Windows10.html)
 
 #### 赞助：
 
