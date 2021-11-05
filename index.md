@@ -32,7 +32,7 @@ layout: home
 
 #### 最近更新：
 
-[Luthree Windows10系统发布1.3版本](https://luthree.tk/posts/2021-10-10-1_Luthree_Windows10.html)
+[邹子墨新官网](https://luthree.tk/posts/2021-11-05-2021_11_05_%E6%9B%B4%E6%96%B0_1_%E9%82%B9%E5%AD%90%E5%A2%A8%E5%AE%98%E7%BD%91.html)
 
 #### 赞助：
 
