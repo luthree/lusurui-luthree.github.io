@@ -22,7 +22,7 @@ layout: home
 
 #### 最近更新：
 
-[邹子墨新官网](https://luthree.tk/posts/2021-11-05-2021_11_05_%E6%9B%B4%E6%96%B0_1_%E9%82%B9%E5%AD%90%E5%A2%A8%E5%AE%98%E7%BD%91.html)
+[自家亭看雪-陆子](https://luthree.tk/posts/2021-11-07-1_%E8%87%AA%E5%AE%B6%E4%BA%AD%E7%9C%8B%E9%9B%AA.html)
 
 #### 热门文章：
 
