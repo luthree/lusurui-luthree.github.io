@@ -22,11 +22,11 @@ layout: home
 
 #### 最近更新：
 
-[消灭邹邹发布！](https://luthree.tk/posts/2021-11-15-1_%E6%B6%88%E7%81%AD%E9%82%B9%E9%82%B9.html)
+[消灭邹邹安卓测试版发布](https://luthree.tk/posts/2021-11-15-1_%E6%B6%88%E7%81%AD%E9%82%B9%E9%82%B9.html)
 
 #### 热门文章：
 
-[Luthree Windows10系统发布1.3版本](https://luthree.tk/posts/2021-10-10-1_Luthree_Windows10.html)
+[消灭邹邹](https://luthree.tk/posts/2021-11-15-1_%E6%B6%88%E7%81%AD%E9%82%B9%E9%82%B9.html)
 
 #### 赞助：
 
