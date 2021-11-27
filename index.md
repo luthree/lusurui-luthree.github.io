@@ -22,7 +22,7 @@ layout: home
 
 #### 最近更新：
 
-[消灭邹邹安卓测试版发布](https://luthree.tk/posts/2021-11-15-1_%E6%B6%88%E7%81%AD%E9%82%B9%E9%82%B9.html)
+[消灭邹邹可以在浏览器里玩了！（网页端）](https://luthree.tk/posts/2021-11-15-1_%E6%B6%88%E7%81%AD%E9%82%B9%E9%82%B9.html)
 
 #### 热门文章：
 
