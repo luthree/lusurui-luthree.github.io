@@ -20,16 +20,6 @@ layout: home
 
 ------
 
-#### 最近更新：
-
-[消灭邹邹电脑2.2版发布了！](https://luthree.tk/posts/2021-12-28-20211228%E6%9B%B4%E6%96%B0_1_%E6%B6%88%E7%81%AD%E9%82%B9%E9%82%B9.html)
-
-[pygame中显示中文](https://luthree.tk/posts/2021-11-27-1_Python-Pygame%E4%B8%AD%E6%98%BE%E7%A4%BA%E4%B8%AD%E6%96%87%E6%96%87%E5%AD%97.html)
-
-#### 热门文章：
-
-[消灭邹邹](https://luthree.tk/posts/2021-11-15-1_%E6%B6%88%E7%81%AD%E9%82%B9%E9%82%B9.html)
-
 #### 赞助：
 
 ![微信收款码](/img/mm_facetoface_collect_qrcode_1632534792604.png "赞助")
