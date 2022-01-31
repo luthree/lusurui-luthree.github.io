@@ -50,4 +50,4 @@ SHA1: B41AD58AAC588529C04BD9EB1D7576AD37A72FA8
 
 CRC32: 45AEDD62
 
-<br>[luthree](http://luthree.tk)
+<br>[luthree](https://luthr.ee)
