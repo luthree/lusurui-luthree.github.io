@@ -39,4 +39,4 @@ while True:
 
 以上代码搭配中文字库，即可实现显示中文
 
-[luthree](http://luthree.tk)
+[luthree](https://luthr.ee)
