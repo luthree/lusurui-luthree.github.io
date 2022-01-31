@@ -8,7 +8,7 @@ layout: home
 
 #### 友情链接：
 
-[自家官网](https://zjxp.luthree.tk)&ensp;&ensp;&ensp;&ensp;[邹子墨官网](https://zzm.luthree.tk)&ensp;&ensp;&ensp;&ensp;[luthree的网页游戏](http://luthree-game.tk)&ensp;&ensp;&ensp;&ensp;[luthree官方论坛](http://bbs.luthree.ml)&ensp;&ensp;&ensp;&ensp;[luthree网盘](http://pan.luthree.tk)&ensp;&ensp;&ensp;&ensp;[luthree搜索主页](https://s.luthree.tk/)
+[自家官网](https://zjxp.luthr.ee)&ensp;&ensp;&ensp;&ensp;[邹子墨官网](https://zzm.luthr.ee)&ensp;&ensp;&ensp;&ensp;[luthree的网页游戏](http://luthree-game.tk)&ensp;&ensp;&ensp;&ensp;[luthree官方论坛](http://bbs.luthree.ml)&ensp;&ensp;&ensp;&ensp;[luthree网盘](http://pan.luthr.ee)&ensp;&ensp;&ensp;&ensp;[luthree搜索主页](https://s.luthr.ee/)
 
 ------
 
