@@ -2,6 +2,8 @@
 layout: home
 ---
 
+<html lang="zh">
+
 <font color="red">Luthree's Blog</font>
 
 ------
